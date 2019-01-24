@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/actionlogger",
+    "name": "boing6002/actionlogger",
     "description": "User actions logger dependency for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel-enso/core": "3.6.*"
+        "boing6002/core": "dev-master"
     },
     "autoload": {
         "psr-4": {
